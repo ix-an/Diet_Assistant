@@ -1,0 +1,7 @@
+python==3.12.4
+Django==5.2.1
+chromadb==1.4.1
+transformers==4.51.2
+sentence-transformers==5.1.2
+modelscope==1.28.0
+
